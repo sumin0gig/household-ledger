@@ -1,0 +1,14 @@
+#Menu{
+  background-color: aqua;
+  width: 10vw;
+  height: 100vh;
+  padding: var(--padding-default);
+  position: fixed;
+  top: 0;
+}
+#Menu.left{
+  left: 0;
+}
+#Menu.right{
+  right: 0;
+}

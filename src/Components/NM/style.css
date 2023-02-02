@@ -1,0 +1,15 @@
+#NM{
+  margin: 160px 0 60px 0;
+  display: flex;
+  flex-flow: row wrap;
+  height: 100%;
+  width: 70%;
+}
+#NM .navCategory{
+  background-color: #fff;
+  width: 40%;
+  height: 400px;
+  padding: var(--padding-default);
+  border-radius: 7px;
+  box-shadow: 0 0 5px 2px var(--shadow-color);
+}
